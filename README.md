@@ -1,2 +1,4 @@
 # Assignment3
-C++ is a low-level and cross-platform imperative language. It has object-oriented, generic, and functional features.
+Video link: https://www.canva.com/design/DAHAZJfIzPE/fCjx0D5XhW6wb6VwQaPF3A/edit?utm_content=DAHAZJfIzPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+main.cpp link: https://replit.com/@ysanchez76/Assignment3#main.cpp
+Transcript: https://share.google/aimode/woCxQsk6nWiNaHkyY
